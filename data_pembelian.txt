@@ -1,0 +1,4 @@
+Barang;Harga;Jumlah;Bulan
+bola;25000;5;10
+meja;2500000;3;10
+bet;40000;43;9

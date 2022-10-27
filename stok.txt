@@ -1,0 +1,3 @@
+Barang;Stok
+meja;7
+bet;43
